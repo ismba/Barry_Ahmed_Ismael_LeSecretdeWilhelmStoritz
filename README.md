@@ -20,9 +20,9 @@ Pour obtenir un résumé sur les chiffres de mon document j'ai procédé par la 
 **La fonctionnalité Spécificité/AFC et graphiques**
 
 La fonctionnalité Spécificité et AFC a permis d'obtenir les graphiques d'AFC sur les formes. J'ai utilisé les formes actives et suplémentaires, ensuite procédé a une sélection par modalités car n'ayant de variables effectives. Il faut noter que ces graphiques sont les résultats obtenus avec des variables actives.
-[Image 2](img/AFC2DCL.png)
-[Image 3](img/AFC2DEL.png)
-[Image 4](img/AFC2DL.png)
+![Image 2](img/AFC2DCL.png)
+![Image 3](img/AFC2DEL.png)
+![Image 4](img/AFC2DL.png)
 
 **Fonctionalité Reinert et graphiques**
 
