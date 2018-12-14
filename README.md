@@ -27,8 +27,8 @@ La fonctionnalité Spécificité et AFC a permis d'obtenir les graphiques d'AFC 
 **Fonctionalité Reinert et graphiques**
 
 Pour obtenir les graphiques de la fonction Reinert,j'ai parametré le logicel de facon a avoir à 19 nombres de phases terminal de phase 1. Ainsi les graphiques obtenus sont lisibles et compréhensibles.
-[Image 5](img / dendrogramme_1.png)
-[Image 6](img / dendrogramme_2.png)
+[Image 5](img/endrogramme_1.png)
+[Image 6](img/dendrogramme_2.png)
 
 **Analyses des similitudes**
 
