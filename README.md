@@ -52,4 +52,4 @@ Nuage de mots avec des formes actives et supplémentaires.
 
 [Image 10](img / nuage_3.png)
 
-Il en ressort un taux élevé de formes supplémentaires ceci du a leur grand nombre dans le texte
+Il en ressort un taux élevé de formes supplémentaires ceci du a leur grand nombre dans le texte.
