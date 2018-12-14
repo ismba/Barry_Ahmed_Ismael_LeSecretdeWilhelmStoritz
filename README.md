@@ -7,7 +7,7 @@ Ce dossier est composé d'un ensemble d'infographie et de bases de données port
 
 Après avoir télécharger le fichier texte sur le site **wikisource.com**, j'ai procédé à un codage afin de ne garder que le texte du récit du roman et pour que le fichier puisse etre modulable dans le logiciel et permettre une production effective de données visualisbales. La balise utilisée est: *** *
 J'ai ensuite suavegardé le ficchier sous nom: Le-Secret-de-Wilhem-Storitz_Jules-Vernes.txt
-[Figure 1](statistique)
+[Statistique](statistique.png)
 
 **Etape 2:  Analyse et production de données par IRAMUTEQ**
 
