@@ -34,14 +34,22 @@ Pour obtenir les graphiques de la fonction Reinert,j'ai parametré le logicel de
 
 Pour obtenir les graphiques des analyses des similitudes, j'ai parametré le logiciel de sorte à avoir 69 formes ayant une fréquence d'apparition allant du minimum 40 au maximum 230 afin d'avoir. Vu la masse de mots que comportait le texte il était nécéssaire de ne garder que les plus récurents.
 
+[Image 6](img / graph_simi_1.png)
+
 **Nuage de mots**
 
 Nuage de mots avec des formes actives.
+
+[Image 6](img / nuage_1.png)
 
 Le graphiques de nuage de mots comportant des formes actives à nécéssité une réduction d'effectif afin de ne garder que les mots ayant une fréquence d'apparition allant de 30 à 230.
 
 Nuage de mots avec des formes supplémentaires.
 
+[Image 7](img / nuage_2.png)
+
 Nuage de mots avec des formes actives et supplémentaires.
 
-Il en ressort plus de formes supplémentaires ceci du a leur grand nombre dans le texte.
+[Image 7](img / nuage_3.png)
+
+Il en ressort un taux élevé de formes supplémentaires ceci du a leur grand nombre dans le texte.
