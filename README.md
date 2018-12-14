@@ -11,6 +11,7 @@ J'ai ensuite suavegardé le ficchier sous nom: Le-Secret-de-Wilhem-Storitz_Jules
 **Etape 2:  Analyse et production de données par IRAMUTEQ**
 
 Ayant obtenu 19 nombres de textes après analyse du fichier par **Iramuteq**, chiffre qui correspond excatement au nombre de chapitres qui compose mon fichier texte on peu en deduire que la phase de traitement de texte a été bien réalisé.
+
 [Image 1](img/statistique.png)
 
 **Fichiers CSV** 
