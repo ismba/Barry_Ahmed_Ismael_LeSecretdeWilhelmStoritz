@@ -40,16 +40,16 @@ Pour obtenir les graphiques des analyses des similitudes, j'ai parametré le log
 
 Nuage de mots avec des formes actives.
 
-[Image 6](img / nuage_1.png)
+[Image 7](img / nuage_1.png)
 
 Le graphiques de nuage de mots comportant des formes actives à nécéssité une réduction d'effectif afin de ne garder que les mots ayant une fréquence d'apparition allant de 30 à 230.
 
 Nuage de mots avec des formes supplémentaires.
 
-[Image 7](img / nuage_2.png)
+[Image 8](img / nuage_2.png)
 
 Nuage de mots avec des formes actives et supplémentaires.
 
-[Image 7](img / nuage_3.png)
+[Image 9](img / nuage_3.png)
 
 Il en ressort un taux élevé de formes supplémentaires ceci du a leur grand nombre dans le texte
