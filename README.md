@@ -1,5 +1,5 @@
 # Barry_Ahmed_Ismael_LeSecretdeWilhelmStoritz
-Ce dossier est composé d'un ensemble d'infographies et de bases de données portant sur les visualisations de type nuages de mots-clés, la classification automatique et le nombre d’occurrences.
+Ce dossier est composé d'un ensemble d'infographie et de bases de données portant sur les visualisations de type nuages de mots-clés, la classification automatique et le nombre d’occurrences.
 
 Après avoir télécharger le fichier texte sur le site **wikisource.com**, j'ai procédé à un codage afin de ne garder que le texte du récit du roman et pour que le fichier puisse etre modulable dans le logiciel et permettre une production effective de données visualisbales. La balise utilisée est: *** *
 
