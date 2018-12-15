@@ -1,4 +1,4 @@
-#Une nouvelle façon d'appréhender les humanités digitales
+# Une nouvelle façon d'appréhender les humanités digitales
 
 En l’espace d’un demi-siècle, l’essor des technologies a
 transformé profondément notre rapport au monde et
