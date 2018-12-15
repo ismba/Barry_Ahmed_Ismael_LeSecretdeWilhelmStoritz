@@ -9,4 +9,4 @@ Ce document est composé de:
 <p>a: formes_actives.csv<p/>
 <p>b: formes_supplémentaires.csv<p/>
 <p>c: total.csv<p/>
-<p> 6- Un fichier en .md qui répond à la question suivante : en quoi la digitalisation de l'oeuvre permet-elle d'envisager de nouvelles possibilités en Humanités Digitales ? digitalisation_oeuvres <p/>
+<p> 6- Un fichier en .md qui répond à la question suivante : en quoi la digitalisation de l'oeuvre permet-elle d'envisager de nouvelles possibilités en Humanités Digitales ? digitalisation_oeuvres.md <p/>
